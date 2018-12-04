@@ -10,10 +10,6 @@ import java.io.RandomAccessFile;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
-
-/**
- * Hello world!
- */
 public class App {
     public static void main(String[] args) throws IOException {
         AWSKMS kmsClient = AWSKMSClientBuilder.standard().withRegion("us-east-1").build();
