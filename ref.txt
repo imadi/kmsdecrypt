@@ -4,7 +4,3 @@ https://springframework.guru/spring-5-webclient/
 https://www.callicoder.com/spring-5-reactive-webclient-webtestclient-examples/
 https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html#webflux-client-exchange
 https://www.e4developer.com/2018/05/31/webflux-in-practice-asynchronous-service-with-webclient/
-
-
-https://www.hackerrank.com/challenges/array-left-rotation/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
-https://www.hackerrank.com/challenges/sparse-arrays/problem
